@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\University\Algoritmizaciya and programyvanya\PR 7.3.2.2\PR 7.3.2.2\Source.cpp(58): warning C4715: 'SearchNegative': not all control paths return a value
+D:\University\Algoritmizaciya and programyvanya\PR 7.3.2.2\PR 7.3.2.2\Source.cpp(47): warning C4715: 'Sum2': not all control paths return a value
+D:\University\Algoritmizaciya and programyvanya\PR 7.3.2.2\PR 7.3.2.2\Source.cpp(71): warning C4715: 'Sum': not all control paths return a value
+  PR 7.3.2.2.vcxproj -> D:\University\Algoritmizaciya and programyvanya\PR 7.3.2.2\Debug\PR 7.3.2.2.exe
